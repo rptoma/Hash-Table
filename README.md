@@ -9,4 +9,4 @@ Hash table-ul are urmatoarele functionalitati:
 
 Obiectele de tip cheie trebuie sa aiba overload pe operatorul (). Astfel *key()* va reprezenta hashCode-ul obiectului.
 
-Pentru verificarea corectitudinii si eficientei, se poate testa pe problema "Hashuri" (http://www.infoarena.ro/problema/hashuri). Rezultatul (100 de puncte) poate fi gasit aici: http://www.infoarena.ro/job_detail/1925368
+Pentru verificarea corectitudinii si eficientei, se poate testa pe problema "Hashuri" (http://www.infoarena.ro/problema/hashuri). Rezultatul (100 de puncte) poate fi gasit aici: http://www.infoarena.ro/job_detail/1925369
